@@ -51,4 +51,4 @@ This project is now ready to run! Run the command
 ```
 npm start
 ```
-and head over to [localhost:3000](localhost:3000). on your browser to see the Node-Chat-App.
+and head over to (localhost:3000). on your browser to see the Node-Chat-App.
