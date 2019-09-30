@@ -28,4 +28,27 @@ and hosted on:
   
   
 ## Setup
-Coming soon...
+First create your virtual environment to keep packages seperate from other projects.
+```
+cd /desiredDirectory
+virtualenv NamethisENV
+```
+Then activate your env and then clone this project to the desired location on your computer.
+
+```
+cd /desiredDirectory
+git clone https://github.com/Purcell-Kevingithub/Node-Chat-App.git
+```
+
+Lastly install the required dependencies.
+
+```
+npm install
+```
+
+This project is now ready to run! Run the command
+
+```
+npm start
+```
+and head over to localhost:3000 on your browser to see the Node-Chat-App.
